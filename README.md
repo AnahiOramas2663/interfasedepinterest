@@ -14,7 +14,7 @@ Este proyecto es un clon de la interfaz de inicio de *Pinterest*, creado puramen
 + **Google Icons:** Para iconos personalizados.
 
 ### Vista Previa del Proyecto
-![Demo]
+![Demo](/imagenes/vistaprevia.png)
 
 ### Contacto
 Guadalupe Oramas:[Mi Linkedin](www.linkedin.com/in/anahi-oramas-oacg021019)
